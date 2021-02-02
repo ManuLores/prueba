@@ -1,0 +1,18 @@
+[2021-01-30 17:23:27.747] [remoteagent] [info] 
+
+*
+* Visual Studio Code Server
+*
+* Reminder: You may only use this software with Visual Studio family products,
+* as described in the license https://aka.ms/vscode-remote/license
+*
+
+
+[2021-01-30 17:23:27.747] [remoteagent] [info] Extension host agent started.
+[2021-01-30 17:23:27.865] [remoteagent] [info] [::ffff:172.25.16.1][82c94c9f][ExtensionHostConnection] New connection established.
+[2021-01-30 17:23:27.866] [remoteagent] [info] [::ffff:172.25.16.1][db70cd9e][ManagementConnection] New connection established.
+[2021-01-30 17:23:30.140] [remoteagent] [info] [::ffff:172.25.16.1][82c94c9f][ExtensionHostConnection] <227> Launched Extension Host Process.
+[2021-01-30 17:24:27.587] [remoteagent] [info] Installing extension: ms-azuretools.vscode-docker
+[2021-01-30 17:25:14.394] [remoteagent] [info] [::ffff:172.25.16.1][db70cd9e][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2021-01-30 17:25:15.408] [remoteagent] [info] [::ffff:172.25.16.1][82c94c9f][ExtensionHostConnection] <227> Extension Host Process exited with code: 0, signal: null.
+[2021-01-30 17:25:15.408] [remoteagent] [info] Last EH closed, waiting before shutting down
